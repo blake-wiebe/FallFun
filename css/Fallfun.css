@@ -1,0 +1,9 @@
+h1{color: black;font-family: inherit}
+h2{color: darkred;font-family: sans-serif}
+p{color: darkred;font-family:fantasy}
+aside{float: right}
+section{float: left}
+body{background-color: burlywood}
+article{float: right}
+footer{float: left}
+img{float:none}
